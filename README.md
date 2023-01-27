@@ -1,4 +1,4 @@
-<h1 align="center">Olá, tudo bem? Sejá bem vindo!</h1>
+<h1 align="center">Olá, meu nome é (Seu nome) e sou apaixonado por tecnologia, especialmente no campo de banco de dados. Tenho experiência em (especifique sua experiência) e estou constantemente aprendendo novas habilidades e técnicas para me tornar um especialista nesta área.</h1>
 <div align="center">
   <a href="https://github.com/lucasrx6">
       <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
