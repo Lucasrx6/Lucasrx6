@@ -1,6 +1,6 @@
 <h1 align="center">Olá, tudo bem? Sejá bem vindo!</h1>
 <div align="center">
-  <a href="https://github.com/lucianolpsf">
+  <a href="https://github.com/lucasrx6">
       <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
   <a href="https://github.com/lucianolpsf">
       <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><a/>
