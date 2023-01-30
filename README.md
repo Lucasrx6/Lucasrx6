@@ -18,9 +18,9 @@ Tenho experiência em MySQL e SQLServer e estou constantemente aprendendo novas 
 </div>
     
 <div align="center">
-    <a href="https://facebook.com/lucianolpsf" target="_blank">
+    <a href="https://www.facebook.com/lucas.fernandes.199666" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/><a/>
-    <a href="https://instagram.com/lucianolpsf" target="_blank">
+    <a href="https://www.instagram.com/fernand.luks/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/><a/>
     <a href="[https://www.linkedin.com/in/lucas-fernandes-de-oliveira-011813154/]" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/><a/>
