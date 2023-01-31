@@ -5,22 +5,22 @@ Tenho experiência em MySQL e SQLServer e estou constantemente aprendendo novas 
 
 <div align="center">
    <a href="https://github.com/lucasrx6">
-      <img align="center" alt="html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
+      <img align="center" alt="html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
    <a href="https://github.com/lucasrx6">
-      <img align="center" alt="css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><a/>
+      <img align="center" alt="css" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><a/>
    <a href="https://github.com/lucasrx6">
-      <img align="center" alt="css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /><a/>
+      <img align="center" alt="css" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /><a/>
    <a href="https://github.com/lucasrx6">
-      <img align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><a/>
+      <img align="center" alt="java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><a/>
    <a href="https://github.com/lucasrx6">
-      <img align="center" alt="mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><a/>
+      <img align="center" alt="mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><a/>
    <a href="https://github.com/lucasrx6">
-      <img align="center" alt="sqlserver" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><a/>
+      <img align="center" alt="sqlserver" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><a/>
   
 </div><br>
 <div align="center">
   <a href="https://github.com/lucasrx6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrx6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=lucasrx6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
     
 <div align="center">
