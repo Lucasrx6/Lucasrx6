@@ -13,7 +13,7 @@ Nos links abaixo, você pode ver exemplos de alguns trabalhos.
       <img align="center" alt="css" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><a/>
       
       
-   <a href="https://github.com/lucasrx6">
+   <a href="https://github.com/Lucasrx6/Biblioteca">
       <img align="center" alt="css" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /><a/>
       
       
