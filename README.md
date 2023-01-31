@@ -15,7 +15,7 @@ Tenho experiência em MySQL e SQLServer e estou constantemente aprendendo novas 
    <a href="https://github.com/lucasrx6">
       <img align="center" alt="mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><a/>
       
-      <!Icone e link do SQL SERVER->
+      <!--Icone e link do SQL SERVER-->
    <a href="https://github.com/lucasrx6">
       <img align="center" alt="sqlserver" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><a/>
   
