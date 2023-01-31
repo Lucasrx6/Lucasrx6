@@ -1,7 +1,7 @@
 # Olá, meu nome é Lucas Fernandes
-##Sou apaixonado por tecnologia, especialmente no campo de banco de dados. 
+## Sou apaixonado por tecnologia, especialmente no campo de banco de dados. 
 
-###Tenho experiência em MySQL e SQLServer e estou constantemente aprendendo novas habilidades e técnicas para me tornar um especialista nesta área.
+### Tenho experiência em MySQL e SQLServer e estou constantemente aprendendo novas habilidades e técnicas para me tornar um especialista nesta área.
 
 <div align="center">
    <a href="https://github.com/lucasrx6">
