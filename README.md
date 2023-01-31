@@ -25,7 +25,7 @@ Nos links abaixo, você pode ver exemplos de alguns trabalhos.
       <img align="center" alt="mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><a/>
       
      
-   <a href="https://github.com/lucasrx6">
+   <a href="https://github.com/Lucasrx6/SQL-db_discoteca">
       <img align="center" alt="sqlserver" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><a/>
   
 </div><br>
