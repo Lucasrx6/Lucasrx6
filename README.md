@@ -2,6 +2,8 @@
 ### Sou apaixonado por tecnologia, especialmente no campo de banco de dados. 
 ### Tenho experiência em MySQL e SQLServer e estou constantemente aprendendo novas habilidades e técnicas para me tornar um especialista nesta área.
 
+Nos links abaixo, você pode ver exemplos de alguns trabalhos.
+
 <div align="center">
    <a href="https://github.com/lucasrx6">
       <img align="center" alt="html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
