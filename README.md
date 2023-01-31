@@ -21,7 +21,7 @@ Nos links abaixo, você pode ver exemplos de alguns trabalhos.
       <img align="center" alt="java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><a/>
       
       
-   <a href="https://github.com/lucasrx6">
+   <a href="https://github.com/Lucasrx6/db_techfacil">
       <img align="center" alt="mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><a/>
       
      
