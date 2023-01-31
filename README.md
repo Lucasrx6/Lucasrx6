@@ -4,15 +4,15 @@ Sou apaixonado por tecnologia, especialmente no campo de banco de dados.
 Tenho experiência em MySQL e SQLServer e estou constantemente aprendendo novas habilidades e técnicas para me tornar um especialista nesta área.
 
 <div align="center">
-  <a href="https://github.com/lucasrx6">
+   <a href="https://github.com/lucasrx6">
       <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
-  <a href="https://github.com/lucasrx6">
+   <a href="https://github.com/lucasrx6">
       <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><a/>
-  <a href="https://github.com/lucasrx6">
-      <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><a/>
-    <a href="https://github.com/lucasrx6">
+   <a href="https://github.com/lucasrx6">
       <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><a/>
-      <a href="https://github.com/lucasrx6">
+   <a href="https://github.com/lucasrx6">
+      <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><a/>
+   <a href="https://github.com/lucasrx6">
       <img align="center" alt="sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><a/>
   
 </div><br>
