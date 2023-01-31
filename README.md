@@ -6,16 +6,24 @@
 <div align="center">
    <a href="https://github.com/lucasrx6">
       <img align="center" alt="html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
+      
+      
    <a href="https://github.com/lucasrx6">
       <img align="center" alt="css" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><a/>
+      
+      
    <a href="https://github.com/lucasrx6">
       <img align="center" alt="css" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /><a/>
+      
+      
    <a href="https://github.com/lucasrx6">
       <img align="center" alt="java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"><a/>
+      
+      
    <a href="https://github.com/lucasrx6">
       <img align="center" alt="mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"><a/>
       
-     <!-- This content will not appear in the rendered Markdown -->
+     
    <a href="https://github.com/lucasrx6">
       <img align="center" alt="sqlserver" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><a/>
   
