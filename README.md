@@ -32,6 +32,7 @@ Nos links abaixo, você pode ver exemplos de alguns trabalhos.
 <div align="center">
   <a href="https://github.com/lucasrx6">
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=lucasrx6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrx6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
     
 <div align="center">
