@@ -5,15 +5,15 @@
 Nos links abaixo, você pode ver exemplos de alguns trabalhos.
 
 <div align="center">
-   <a href="https://github.com/lucasrx6">
+   <a href="https://lucasrx6.github.io/portfolio/">
       <img align="center" alt="html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"><a/>
       
       
-   <a href="https://github.com/lucasrx6">
+   <a href="https://lucasrx6.github.io/portfolio/">
       <img align="center" alt="css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"><a/>
       
       
-   <a href="https://github.com/Lucasrx6/Biblioteca">
+   <a href="https://lucasrx6.github.io/portfolio/">
       <img align="center" alt="css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /><a/>
       
       
