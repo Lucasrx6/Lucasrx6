@@ -1,4 +1,6 @@
-# Olá, meu nome é Lucas Fernandes
+# Olá, meu nome é Lucas Fernandes!!!
+:)
+
 ### Sou apaixonado por tecnologia, especialmente no campo de banco de dados. 
 ### Tenho experiência em MySQL e SQLServer e estou constantemente aprendendo novas habilidades e técnicas para me tornar um especialista nesta área.
 
@@ -49,3 +51,5 @@ Nos links abaixo, você pode ver exemplos de alguns trabalhos.
 </div>
 <div align="center">  
 </div>
+
+
