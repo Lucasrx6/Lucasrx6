@@ -34,6 +34,9 @@ Nos links abaixo, você pode ver exemplos de alguns trabalhos.
       <img align="center" alt="sqlserver" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><a/>
   
 </div><br>
+      
+________________________________      
+      
 <div align="center">
   <a href="https://github.com/lucasrx6">
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=lucasrx6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
