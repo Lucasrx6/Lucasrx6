@@ -17,11 +17,6 @@ Confira meu <a href='https://lucasrx6.github.io/portfolio/'>portfolio<a> para ve
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50"/>
 </p>
 
-### Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-00000F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
 
 # Estatísticas do GitHub:
 
