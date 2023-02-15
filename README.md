@@ -28,7 +28,6 @@ Confira meu <a href='https://lucasrx6.github.io/portfolio/'>portfolio<a> para ve
 ### Frameworks e Bibliotecas
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&
 
 # Estatísticas do GitHub:
 
