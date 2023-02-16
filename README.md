@@ -14,7 +14,8 @@ Confira meu <a href='https://lucasrx6.github.io/portfolio/'>portfolio<a> para ve
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/><a>
   <a href='https://lucasrx6.github.io/portfolio/'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
+    <a href='https://github.com/Lucasrx6/CRUDJava'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/><a>
   <a href='https://github.com/Lucasrx6/SQL-db_discoteca'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/><a>
   <a href='https://github.com/Lucasrx6/SQL-db_discoteca'>
