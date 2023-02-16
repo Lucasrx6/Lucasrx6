@@ -39,5 +39,3 @@ Confira meu <a href='https://lucasrx6.github.io/portfolio/'>portfolio<a> para ve
   </a>
 </div>
 
-
-Espero que goste da sugestão! Não se esqueça de substituir as informações e links pelos seus próprios. Qualquer dúvida, é só perguntar.
