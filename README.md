@@ -5,6 +5,8 @@ Sou apaixonado por tecnologia, especialmente no campo de banco de dados. Tenho e
 Confira meu <a href='https://lucasrx6.github.io/portfolio/'>portfolio<a> para ver alguns exemplos de trabalhos.
 <br>
 Autor do site https://lucasrx6test2.000webhostapp.com/
+<br>
+Meu maior projeto https://github.com/Lucasrx6/AngCRUD1, onde eu estudo FrontEnd, Angular, Node, .NET, C#, TypeScript e aplicações backend para testes
 
 # Linguagens e ferramentas:
 <p align="center">
