@@ -3,6 +3,7 @@
 Sou apaixonado por tecnologia, especialmente no campo de banco de dados. Tenho experiência em MySQL e SQL Server e estou constantemente aprendendo novas habilidades e técnicas para me tornar um especialista nesta área.
 
 Confira meu <a href='https://lucasrx6.github.io/portfolio/'>portfolio<a> para ver alguns exemplos de trabalhos.
+Autor do site https://lucasrx6test2.000webhostapp.com/
 
 # Linguagens e ferramentas:
 <p align="center">
