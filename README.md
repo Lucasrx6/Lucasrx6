@@ -10,10 +10,12 @@ Meu maior projeto https://github.com/Lucasrx6/AngCRUD1, onde eu estudo FrontEnd,
 
 # Linguagens e ferramentas:
 <p align="center">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
+  <a href='https://lucasrx6.github.io/portfolio/'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><a>
+  <a href='https://lucasrx6.github.io/portfolio/'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /><a>
+  <a href='https://lucasrx6.github.io/portfolio/'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" /><a>
   <a href='https://lucasrx6.github.io/portfolio/'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/><a>
   <a href='https://lucasrx6.github.io/portfolio/'>
