@@ -1,6 +1,6 @@
 # Olá, meu nome é Lucas Fernandes! :wave:
 
-Sou apaixonado por tecnologia, especialmente no campo de banco de dados. Tenho experiência em MySQL e SQL Server e estou constantemente aprendendo novas habilidades e técnicas para me tornar um especialista nesta área.
+Sou apaixonado por tecnologia, agora especialmente em .NET e C# e tecnologias Microsoft. Tenho experiência em SQL Server e estou constantemente aprendendo novas habilidades e técnicas para me tornar um especialista nesta área.
 
 
 <br>
