@@ -6,7 +6,8 @@ Sou apaixonado por tecnologia, agora especialmente em .NET e C# e tecnologias Mi
 <br>
 Autor do site lucasrx6test2.000webhostapp.com/ e karyaprendizagem.000webhostapp.com/
 <br>
-Atualmente estudante de Desenvolvimento Web com Angular, Node, ASP.NET, C#, TypeScript, Javascript e APIs backend.
+
+Desenvolvimento Web com Angular, Node, ASP.NET, C#, TypeScript, Javascript e APIs backend.
 
 # Linguagens e ferramentas:
 <p align="center">
