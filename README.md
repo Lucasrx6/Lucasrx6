@@ -4,7 +4,7 @@ Sou apaixonado por tecnologia, agora especialmente em .NET e C# e tecnologias Mi
 
 
 <br>
-Autor do site https://lucasrx6test2.000webhostapp.com/
+Autor do site lucasrx6test2.000webhostapp.com/ e karyaprendizagem.000webhostapp.com/
 <br>
 Meu maior projeto https://github.com/Lucasrx6/AngCRUD1, onde eu estudo FrontEnd, Angular, Node, .NET, C#, TypeScript e aplicações backend para testes
 
