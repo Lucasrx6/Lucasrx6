@@ -3,12 +3,6 @@
 Sou apaixonado por tecnologia, agora especialmente em .NET e C# e tecnologias Microsoft. Tenho experiência em SQL Server e estou constantemente aprendendo novas habilidades e técnicas para me tornar um especialista nesta área.
 
 
-<br>
-Autor do site lucasrx6test2.000webhostapp.com/ e karyaprendizagem.000webhostapp.com/
-<br>
-
-Desenvolvimento Web com Angular, Node, ASP.NET, C#, TypeScript, Javascript e APIs backend.
-
 # Linguagens e ferramentas:
 <p align="center">
   <a href='https://lucasrx6.github.io/portfolio/'>
