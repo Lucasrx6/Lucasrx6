@@ -63,7 +63,7 @@ Atualmente atuo como **Analista de Sistemas Pleno**, onde desenvolvi o **Sistema
 
 ## 💼 Projeto Destaque
 
-### 🏥 Sistema de Painéis Clínicos - Hospital Anchieta
+### 🏥 Sistema de Painéis Clínicos
 
 Sistema completo de dashboards em tempo real para operações hospitalares:
 
