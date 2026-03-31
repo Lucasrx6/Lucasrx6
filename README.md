@@ -16,7 +16,7 @@ Desenvolvedor apaixonado por criar soluções tecnológicas que impactam vidas r
 
 ## 🚀 Sobre Mim
 
-Atualmente atuo como **Analista de Sistemas Pleno** no **Hospital Anchieta Ceilândia**, onde idealizei e desenvolvi do zero o **Sistema de Painéis Hospitalares** — uma plataforma completa de monitoramento operacional em tempo real com **25+ dashboards**, integração com **IA para análise clínica**, e pipelines **ETL automatizados**.
+Atualmente atuo como **Analista de Sistemas Pleno** , onde idealizei e desenvolvi do zero o **Sistema de Painéis Hospitalares** — uma plataforma completa de monitoramento operacional em tempo real com **25+ dashboards**, integração com **IA para análise clínica**, e pipelines **ETL automatizados**.
 
 - 🏥 Especializado em **sistemas de saúde** e **integração com HIS (Hospital Information System)**
 - 🤖 Desenvolvimento de **IA aplicada** para avaliação de riscos clínicos (NEWS2, SOFA, Sepse)
